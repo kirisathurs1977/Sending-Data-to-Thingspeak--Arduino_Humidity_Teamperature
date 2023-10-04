@@ -6,12 +6,12 @@
 DHT dht(DHTPIN, DHTTYPE);
 
 
-const char* ssid = "SenzMate";   // your network SSID (name) 
-const char* password = "fibeR@SenzMate";   // your network password
+const char* ssid = "xxxxx";   // your network SSID (name) 
+const char* password = "xxxxxxx";   // your network password
 WiFiClient  client;
 
-unsigned long myChannelNumber = 2290152;
-const char * myWriteAPIKey = "9OBY6A0H1BTX2DA0";
+unsigned long myChannelNumber = xxxxx;
+const char * myWriteAPIKey = "xxxxxxxx";
 
 // Timer variables
 unsigned long lastTime = 0;
